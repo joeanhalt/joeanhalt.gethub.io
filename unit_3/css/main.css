@@ -1,0 +1,68 @@
+body {
+
+	background-color: white
+ 
+}
+
+
+.container {
+    position: center;
+    text-align: center;
+    color: white;
+
+}
+
+.center-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.body-copy {
+	position: center;
+	text-align: center;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+
+.Email-CTA {
+	font-family: lato;
+	color: black;
+	font-size: 8px;
+	text-align: center;
+	text-decoration: 
+}
+
+
+h1 {
+	font-family: lato;
+	color: black;
+	font-size: 100px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#second {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.important {
+	font-size: 20px;
+}
+
+p {
+	font-family: vollkorn;
+	color: black;
+	font-size: 25px;
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+	font-style: italic;
+}
+
+
